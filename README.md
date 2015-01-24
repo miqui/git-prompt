@@ -1,2 +1,2 @@
-# Informative git prompt for bash and fish
+# git prompt for bash 
 
